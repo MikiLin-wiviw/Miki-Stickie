@@ -3,6 +3,9 @@ description: 感谢你分享的经验和学术内容
 title: "[知识分享]："
 labels: ["knowledge"]
 body:
+  - type: markdown
+    attributes:
+      value: 感谢小伙伴分享你的经验，请话一点点时间写下简单的说明。
   - type: checkboxes
     id: prerequisites 
     attributes:
