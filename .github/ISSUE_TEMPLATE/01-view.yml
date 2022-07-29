@@ -32,6 +32,7 @@ body:
         - LOGO
         - 装饰元素
         - 图像效果
+        - 其他
     validations:
       required: true
   - type: textarea
