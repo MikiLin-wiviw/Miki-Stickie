@@ -14,7 +14,7 @@ body:
       options:
         - label: 我同意遵守 **CC BY-NC-SA 4.0** 协议内容
           required: true
-    - type: textarea
+  - type: textarea
     id: share-experience
     attributes:
       label: 请问你有什么好的经验可分享给大家么？
