@@ -22,7 +22,7 @@ body:
   - type: dropdown
     id: type
     attributes:
-      label: 更改类型
+      label: 类型
       description: 请问你的看法是对于那些方面的呢？
       multiple: true
       options:
