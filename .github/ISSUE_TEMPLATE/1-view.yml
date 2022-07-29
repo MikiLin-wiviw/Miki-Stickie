@@ -66,3 +66,11 @@ body:
       options:
         - label: 我同意遵守 Miki Home Rules
           required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 本项目库模板遵循 CC BY-NC-SA 4.0 许可协议
+      description: 本社区的模板采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可协议
+      options:
+        - label: 我同意遵守 CC BY-NC-SA 4.0 协议内容
+          required: true
