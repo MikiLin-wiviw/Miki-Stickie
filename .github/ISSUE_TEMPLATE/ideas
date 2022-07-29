@@ -1,0 +1,62 @@
+name: 提出你的看法
+description: 你对此有什么看法呢
+title: "[ideas]: "
+labels: ["ideas"]
+body:
+  - type: markdown
+    attributes:
+      value: 谢谢小伙伴提出你的看法，请花一捏捏时间填写信息。
+  - type: dropdown
+    id: version
+    attributes:
+      label: 版本
+      description: 请问你的看法适用于哪个版本呢？
+      options:
+        - Miki Stickie.V1
+        - Miki Stickie.V2
+        - Miki Stickie.V3
+        - Miki Stickie.V4
+        - 全部
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: 更改类型
+      description: 请问你的看法是对于那些方面的呢？
+      multiple: true
+      options:
+        - 颜色
+        - 布局
+        - 字体
+        - LOGO
+        - 装饰元素
+        - 图像效果
+    validations:
+      required: ture
+  - type: textarea
+    id: write-ideas
+    attributes:
+      label: 你的想法是什么?
+      description: 请提出你的想法，随意点大胆点！
+      placeholder: 请告诉我你的想法，让我们一起学习！
+      value: "芜湖，快来唠嗑唠嗑！"
+    validations:
+      required: true
+  - type: textarea
+    id: ideas-source
+    attributes:
+      label: 你为什么这么看呢?
+      description: 你可以写自己的思路，也可以结合设计、美学理论（如有请标明出处）
+      placeholder: 请告诉我你的想法，让我们一起学习！
+      value: "关于理论出处可以是截图、链接，只是方便咱去学习，并非不相信的意思 www"
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 行为准则
+      description: 为了保证此社区的质量，请你遵循此社区行为准则 [Miki Home Rules](0000) 的内容
+      options:
+        - label: 我同意遵守 Miki Home Rules
+          required: true
