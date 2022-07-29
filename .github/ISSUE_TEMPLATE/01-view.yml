@@ -39,16 +39,16 @@ body:
     id: write-ideas
     attributes:
       label: 你的想法是什么?
-      description: 请提出你的想法，随意点大胆点！
-      placeholder: 请告诉我你的想法，让我们一起学习！
+      description: 请提出你的想法，随意点，大胆点！
+      placeholder: 呐呐，快来唠嗑唠嗑（可乐已经给小伙伴倒好啦~）
     validations:
       required: true
   - type: textarea
     id: ideas-source
     attributes:
-      label: 能否告诉咱你为什么这么看呢?
+      label: 能告诉咱为什么这么看呢?
       description: 你可以写自己的思路，也可以结合设计、美学理论（如有请标明出处，可以是截图、链接）
-      placeholder: 请告诉我你的想法，让我们一起学习，谢谢小伙伴的帮助！
+      placeholder: 嗯，明白了！能否告诉咱具体是什么呢，咱呆呆的唔，想看小伙伴分享一下解析 wwww
     validations:
       required: true
   - type: checkboxes
