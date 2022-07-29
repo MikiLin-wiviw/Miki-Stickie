@@ -56,7 +56,7 @@ body:
       description: 请问对于该问题你有什么好的解决方案呢？（**除开错别字**）
       placeholder: 如果你愿意，可以写出你的修复方案，咱将在版本更新的时候将你的名字添加入贡献者名单
     validations:
-      required: true
+      required: false
   - type: input
     id: contact
     attributes:
