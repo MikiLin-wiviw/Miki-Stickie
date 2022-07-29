@@ -18,7 +18,7 @@ body:
         - Miki Stickie.V4
         - 全部
     validations:
-      required: true
+      required: false
   - type: dropdown
     id: type
     attributes:
