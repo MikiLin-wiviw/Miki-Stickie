@@ -1,0 +1,36 @@
+name: 一起学习！
+description: 感谢你分享的经验和学术内容
+title: "[知识分享]："
+labels: ["knowledge"]
+body:
+  - type: checkboxes
+    id: prerequisites 
+    attributes:
+      label: 分享前需要知道你分享的经验将遵循 CC BY-NC-SA 4.0 许可协议
+      description: 本社区的模板采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可协议，此区块也遵循。
+      options:
+        - label: 我同意遵守 **CC BY-NC-SA 4.0** 协议内容
+          required: true
+    - type: textarea
+    id: share-experience
+    attributes:
+      label: 请问你有什么好的经验可分享给大家么？
+      description: 请在这里填写你的创作经验 / 从业经验，如果内容来自某学术内容，请填写链接。
+      placeholder: 写在这里哦，链接也可以放在这里。
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: 联系方式（可填写昵称）
+      description: 如果你愿意，可以在此留下联系方式哦~
+    validations:
+      required: false
+  - type: checkboxes
+    id: attention 
+    attributes:
+      label: 提交前须知
+      description: 请注意，如果你愿意提供联系方式（包含昵称），我们会将你列入贡献者列表中。如果联系方式未填写，将视为不愿意透露姓名，为保证你的隐私将在贡献者列表中计入 “热心的小伙伴” 群体名单中
+      options:
+        - label: 我同意以上内容，并已经根据此规则重新考虑过是否选择匿名
+          required: true
