@@ -33,7 +33,7 @@ body:
         - 装饰元素
         - 图像效果
     validations:
-      required: ture
+      required: true
   - type: textarea
     id: write-ideas
     attributes:
