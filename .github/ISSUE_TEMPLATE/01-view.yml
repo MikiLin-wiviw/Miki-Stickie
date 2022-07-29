@@ -1,6 +1,6 @@
 name: 提出你的看法
 description: 你对此有什么看法呢
-title: "[view]: "
+title: "[观点/看法]"
 labels: ["view"]
 body:
   - type: markdown
