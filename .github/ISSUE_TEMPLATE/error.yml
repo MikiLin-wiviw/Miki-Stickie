@@ -1,0 +1,65 @@
+name: 错误报告
+description: 模板中的错误反馈
+labels: ["error"]
+body:
+  - type: markdown
+    attributes:
+      value: 感谢小伙伴的反馈，请填写该表格描述你遇到的错误内容
+  - type: dropdown
+    id: version
+    attributes:
+      label: 版本
+      description: 请问出现错误的是哪个版本呢？
+      options:
+        - Miki Stickie.V1
+        - Miki Stickie.V2
+        - Miki Stickie.V3
+        - Miki Stickie.V4
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: 类型
+      description: 请问该错误是哪个类型？
+      options:
+        - 文件无法打开
+        - 文件兼容性问题
+        - 色彩搭配禁忌
+        - 错别字（本人常病）
+        - 元素丢失（无法加载）
+        - 效果无法呈现
+        - 其他
+    validations:
+      required: true
+  - type: textarea
+    id: other
+    attributes:
+      label: 错误类型中没有你遇到的问题？
+      description: 如果在类型列表中没有你遇到的问题，请选择其他并在此处手动填写
+      placeholder: 请在此处填入你认为该错误的类型，这将帮助咱修改 Miki Home for Github 的提问表单
+    validations:
+      required: false
+  - type: textarea
+    id: error-message
+    attributes:
+      label: 发生什么事了？
+      description: 请问此版本存在的错误内容是？
+      placeholder: 会根据严重性决定是否在本版本更改，如果并非必要的将避免在新版本中出现
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: 联系方式
+      description: 如果你愿意，可以在此留下联系方式哦~
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 行为准则
+      description: 为了保证此社区的质量，请你遵循此社区行为准则 [Miki Home Rules](https://docs.github.com/cn/site-policy/github-terms/github-community-guidelines) 的内容
+      options:
+        - label: 我同意遵守 Miki Home Rules
+          required: true
