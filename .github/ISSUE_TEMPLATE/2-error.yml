@@ -1,5 +1,6 @@
 name: 错误报告
 description: 模板中的错误反馈
+title: "[错误]："
 labels: ["error"]
 body:
   - type: markdown
