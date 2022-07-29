@@ -1,0 +1,51 @@
+name: 遇到问题了？
+description: 遇到操作问题了么？
+title: "[问题]："
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: 在使用的过程中遇到了什么难题么，你可以在这里发起提问哦。
+  - type: dropdown
+    id: question
+    attributes:
+      label: 版本
+      description: 请问遇到的问题出自于哪个版本？
+      options:
+        - Miki Stickie.V1
+        - Miki Stickie.V2
+        - Miki Stickie.V3
+        - Miki Stickie.V4
+    validations:
+      required: true
+  - type: textarea
+    id: write-question
+    attributes:
+      label: 你遇到的问题是什么?
+      description: 请在这里描述你遇到的任何问题~
+      placeholder: 你提供的问题将计入数据库并进行统计，同样的问题反馈到阈值后将计入新版本的教程内容，谢谢！
+    validations:
+      required: true
+  - type: textarea
+    id: try-to-fix
+    attributes:
+      label: 在此之前你有尝试解决此问题么？
+      description: 若不知道如何处理，你可以在此写出你之前尝试的解决方法
+      placeholder: 建议遇到问题自己先想办法解决哦，自己动手丰衣足食~
+    validations:
+      required: false
+  - type: input
+    id: contact
+    attributes:
+      label: 联系方式
+      description: 如果你愿意，可以在此留下联系方式哦~
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 行为准则
+      description: 为了保证此社区的质量，请你遵循此社区行为准则 [Miki Home Rules](https://docs.github.com/cn/site-policy/github-terms/github-community-guidelines) 的内容
+      options:
+        - label: 我同意遵守 Miki Home Rules
+          required: true
