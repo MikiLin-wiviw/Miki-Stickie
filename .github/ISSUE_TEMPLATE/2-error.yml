@@ -49,6 +49,14 @@ body:
       placeholder: 会根据严重性决定是否在本版本更改，如果并非必要的将避免在新版本中出现
     validations:
       required: true
+  - type: textarea
+    id: solutions
+    attributes:
+      label: 啊，这样啊，那你能帮我么？
+      description: 请问对于该问题你有什么好的解决方案呢？（**除开错别字**）
+      placeholder: 如果你愿意，可以写出你的修复方案，咱将在版本更新的时候将你的名字添加入贡献者名单
+    validations:
+      required: true
   - type: input
     id: contact
     attributes:
