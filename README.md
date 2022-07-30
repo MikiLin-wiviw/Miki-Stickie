@@ -37,10 +37,11 @@ QQ 的话暂时就不公开啦~
 > 作者未申明权限的，也请在**进行任何商业化用途之前询问创作者**，至少得让作者知情，**这是对他人的尊重**  
   
 感谢以下的免费可商用字体，让咱创作了许多个人创意作品，在此列出表格并统一表示感谢 😊
-| 字体名称 | 授权范围 | 字体解析 | 
+| 字体名称 | 授权范围 | 字体解析 |
 | --- | --- | --- |
 | MiSans | 供全社会免费商用 | [MiSans 字体解析][MiSans-analysis] |
-| HarmonyOS | 全社会免费商用 | [HarmonyOS 字体解析][HarmonyOS-analysis]
+| HarmonyOS | 供全社会免费商用 | [HarmonyOS 字体解析][HarmonyOS-analysis] |
+| 江城圆体 | 供全社会免费商用 | [江城圆体 字体信息][江城圆体-info] |
 
 
 
@@ -64,3 +65,4 @@ QQ 的话暂时就不公开啦~
 <!--相对链接（按顺序）-->
 [MiSans-analysis]: https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854
 [HarmonyOS-analysis]: https://developer.harmonyos.com/cn/docs/design/font-0000001157868583
+[江城圆体-info]: https://www.thosefree.com/jiangcheng-font
