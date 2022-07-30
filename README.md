@@ -82,6 +82,10 @@ QQ 的话暂时就不公开啦~
 
 
 <!--特别感谢-->
+## 特别感谢 - 谢谢各位的帮助 🥰
+如今 GitHub 官方的帮助文档真的做的超级详细了，本次能成功的搭建并投入使用，官方给的文档帮助了很多  
+与此同时，咱在刚开始的时候也参考了 [Mtf.wiki][Mtfwiki-link] 的 `README.md` 文件，刚开始真的是一头雾水，都不知道官方还有帮助文档 www  
+
 
 <!--跳转地址（按顺序）-->
 [My-Projects]: https://github.com/MikiLin-wiviw/Miki-Stickie
@@ -101,6 +105,7 @@ QQ 的话暂时就不公开啦~
 [BiliBili]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fbilibili%2F22974524&query=count&color=00a1d6&label=BiliBili&labelColor=FE7398&logo=Bilibili&suffix=+%E7%B2%89%E4%B8%9D%E6%95%B0&cacheSeconds=3600
 [cc-licensing]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-licensing-img]: https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
+[Mtfwiki-link]: https://github.com/mtf-wiki/MtF-Wiki
 
 <!--相对链接（按顺序）-->
 [MiSans-analysis]: https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854
