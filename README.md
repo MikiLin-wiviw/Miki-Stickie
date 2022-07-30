@@ -77,6 +77,7 @@ QQ 的话暂时就不公开啦~
   
 此库里所有本人的作品（除字体及有特殊注明的外）  
 均采用 [知识共享署名 - 非商业性使用 - 相同方式共享 4.0 国际许可协议（CC BY-NC-SA 4.0）][cc-licensing] 进行许可  
+[![知识共享许可协议][cc-licensing-img]][cc-licensing]
 
 
 
@@ -97,6 +98,7 @@ QQ 的话暂时就不公开啦~
 [twitter]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2FMiki_Lin_CN&query=count&color=1da1f2&label=Twitter&labelColor=5d5d5d&logo=twitter&suffix=+Follows&cacheSeconds=3600
 [BiliBili]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fbilibili%2F22974524&query=count&color=00a1d6&label=BiliBili&labelColor=FE7398&logo=Bilibili&suffix=+%E7%B2%89%E4%B8%9D%E6%95%B0&cacheSeconds=3600
 [cc-licensing]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-licensing-img]: https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
 
 <!--相对链接（按顺序）-->
 [MiSans-analysis]: https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854
