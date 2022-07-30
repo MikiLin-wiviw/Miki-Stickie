@@ -6,7 +6,7 @@
 [![GitHub issues][issues]][miki-stickie-issues]
 
 [![Miki-Stickie][miki-stickie]][Github]
-## 氦！各位小伙伴好  
+## 氦！各位小伙伴好 🥳  
 没想到这里被你发现啦（虽然发链接了 hhhh）  
 **这里是咱部署的一个仓库 “Miki-Stickie” 用来发布咱推特置顶的模板文件**  
 
@@ -37,7 +37,10 @@ QQ 的话暂时就不公开啦~
 > 作者未申明权限的，也请在**进行任何商业化用途之前询问创作者**，至少得让作者知情，**这是对他人的尊重**  
   
 感谢以下的免费可商用字体，让咱创作了许多个人创意作品，在此列出表格并统一表示感谢 😊
-
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 
 
