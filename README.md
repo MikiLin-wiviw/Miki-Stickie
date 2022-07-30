@@ -15,4 +15,4 @@
 
 [miki-stickie]: ./data/miki-stickie-logo.svg
 [Github]: https://github.com/MikiLin-wiviw/Miki-Stickie
-[github-watchers]: https://img.shields.io/github/watchers/MikiLin-wiviw/Miki-Stickie?style=social
+[github-watchers]: https://img.shields.io/github/watchers/MikiLin-wiviw/Miki-Stickie
