@@ -21,4 +21,4 @@
 [github-watchers]: https://img.shields.io/github/watchers/MikiLin-wiviw/Miki-Stickie
 [github-r-s]: https://img.shields.io/github/stars/MikiLin-wiviw/Miki-Stickie
 [twitter]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2FMiki_Lin_CN&query=count&color=1da1f2&label=Twitter&labelColor=5d5d5d&logo=twitter&suffix=+Follows&cacheSeconds=3600
-[versions]: https://img.shields.io/github/v/release/MikiLin-wiviw/Miki-Stickie?color=73bd62&label=Versions
+[versions]: https://img.shields.io/github/v/release/MikiLin-wiviw/Miki-Stickie?color=73bd62&label=Versions&logo=CLion&logoWidth=11
