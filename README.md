@@ -39,10 +39,13 @@ QQ 的话暂时就不公开啦~
 感谢以下的免费可商用字体，让咱创作了许多个人创意作品，在此列出表格并统一表示感谢 😊
 | 字体名称 | 授权范围 | 字体解析 |
 | --- | --- | --- |
-| MiSans | 供全社会免费商用 | [MiSans 字体解析][MiSans-analysis] |
-| HarmonyOS | 供全社会免费商用 | [HarmonyOS 字体解析][HarmonyOS-analysis] |
-| 江城圆体 | 供全社会免费商用 | [江城圆体 字体信息][江城圆体-info] |
-
+| MiSans | 免费商用 | [MiSans 字体解析][MiSans-analysis] |
+| HarmonyOS | 免费商用 | [HarmonyOS 字体解析][HarmonyOS-analysis] |
+| 江城圆体 | 免费商用 | [江城圆体 字体信息][江城圆体-info] |
+| IBM Plex | 免费商用 | [IBM Plex 官方Github][IBM-Plex-Github] |
+| Roboto Serif | 免费商用 | [Roboto Serif 官方Github][Roboto-Serif-Github] |
+| Roboto | 免费商用 | [Roboto 官方Github][Roboto-Github] |
+| 思源黑体 | 免费商用 | [思源黑体 官方Github][思源黑体-Github] |
 
 
 <!--跳转地址（按顺序）-->
@@ -66,3 +69,7 @@ QQ 的话暂时就不公开啦~
 [MiSans-analysis]: https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854
 [HarmonyOS-analysis]: https://developer.harmonyos.com/cn/docs/design/font-0000001157868583
 [江城圆体-info]: https://www.thosefree.com/jiangcheng-font
+[IBM-Plex-Github]: https://github.com/IBM/plex
+[Roboto-Serif-Github]: https://github.com/googlefonts/roboto-serif/
+[Roboto-Github]: https://github.com/googlefonts/roboto
+[思源黑体-Github]: https://github.com/adobe-fonts/source-han-sans/tree/release
