@@ -65,14 +65,17 @@ QQ 的话暂时就不公开啦~
 - 你打算参加一个漫展，然后买了张票。到了现场找不到检票人员，一问发现是免费的动漫文化展，你气不气？
 同样也是这样的呐，这个模板本来就是咱免费开放的，自己却用钱买来的，想想就很生气 www  
 > 因为咱以前在 Menu 圈就被坑过，焯！  
-<details><summary>对这些人咱真的服透了</summary>
+<details><summary>点开查看对此类人的锐评</summary>
 <p>
 
 **你怎么做得出的？你这个年龄段，你这个阶段你搞成这样（后仰）**  
-**有点出席没有？！**
+**有点出席没有？！**  
 
 </p>
 </details>
+此库里所有本人的作品（除字体及有特殊注明的外）均采用 [知识共享署名 - 非商业性使用 - 相同方式共享 4.0 国际许可协议][cc-licensing] 进行许可，及 [CC BY-NC-SA 4.0][cc-licensing]  
+
+
 
 <!--跳转地址（按顺序）-->
 [My-Projects]: https://github.com/MikiLin-wiviw/Miki-Stickie
@@ -90,6 +93,7 @@ QQ 的话暂时就不公开啦~
 [miki-stickie]: ./data/miki-stickie-logo.svg
 [twitter]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2FMiki_Lin_CN&query=count&color=1da1f2&label=Twitter&labelColor=5d5d5d&logo=twitter&suffix=+Follows&cacheSeconds=3600
 [BiliBili]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fbilibili%2F22974524&query=count&color=00a1d6&label=BiliBili&labelColor=FE7398&logo=Bilibili&suffix=+%E7%B2%89%E4%B8%9D%E6%95%B0&cacheSeconds=3600
+[cc-licensing]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 <!--相对链接（按顺序）-->
 [MiSans-analysis]: https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854
