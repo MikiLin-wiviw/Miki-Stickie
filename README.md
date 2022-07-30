@@ -19,9 +19,11 @@
 如果觉得有办法将自己的LOGO和咱原有的LOGO结合在一起就更棒啦！  
 
 `非常感谢各位小伙伴的支持！`  
+咱的社交圈基本上在 `Twitter` 还有 `BiliBili` QQ 的话暂时不公开啦  
+[![Twitter][twitter]](https://twitter.com/Miki_Lin_CN) [![哔哩哔哩][BiliBili]](https://space.bilibili.com/22974524)
 ## 氦！各位小伙伴好  
 
-[![Twitter][twitter]](https://twitter.com/Miki_Lin_CN)
+
 
 
 <!--跳转地址（按顺序）-->
@@ -39,3 +41,4 @@
 [issues]: https://img.shields.io/github/issues-raw/MikiLin-wiviw/Miki-Stickie?logo=Bitrise
 [miki-stickie]: ./data/miki-stickie-logo.svg
 [twitter]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2FMiki_Lin_CN&query=count&color=1da1f2&label=Twitter&labelColor=5d5d5d&logo=twitter&suffix=+Follows&cacheSeconds=3600
+[BiliBili]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fbilibili%2F22974524&query=count&color=00a1d6&label=BiliBili&labelColor=FE7398&logo=Bilibili&suffix=+%E7%B2%89%E4%B8%9D%E6%95%B0&cacheSeconds=3600
