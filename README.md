@@ -1,7 +1,7 @@
 # Miki-Stickie — 师傅，你是干什么工作的？  
 [![GitHub release (latest by date)][versions]][My-Projects]
 [![GitHub all releases][Downloads]][My-Projects]
-[![GitHub watchers][github-watchers]][[watching]]
+[![GitHub watchers][github-watchers]][watching]
 [![GitHub Repo stars][github-r-s]][star]
 [![GitHub issues][issues]][miki-stickie-issues]
 
