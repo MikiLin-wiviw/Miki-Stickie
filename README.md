@@ -1,4 +1,5 @@
 # Miki-Stickie — 师傅，你是干什么工作的？  
+![GitHub watchers][github-watchers]
 
 [![Miki-Stickie][miki-stickie]][Github]
 ## 氦！各位小伙伴好  
@@ -14,3 +15,4 @@
 
 [miki-stickie]: ./data/miki-stickie-logo.svg
 [Github]: https://github.com/MikiLin-wiviw/Miki-Stickie
+[github-watchers]: https://img.shields.io/github/watchers/MikiLin-wiviw/Miki-Stickie?style=social
