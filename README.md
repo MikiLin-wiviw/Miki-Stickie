@@ -22,8 +22,8 @@
 [miki-stickie-issues]: https://github.com/MikiLin-wiviw/Miki-Stickie/issues
 [miki-stickie]: ./data/miki-stickie-logo.svg
 [Github]: https://github.com/MikiLin-wiviw/Miki-Stickie
-[github-watchers]: https://img.shields.io/github/watchers/MikiLin-wiviw/Miki-Stickie
-[star]: https://github.com/MikiLin-wiviw/Miki-Stickie/stargazers
+[github-watchers]: https://img.shields.io/github/watchers/MikiLin-wiviw/Miki-Stickie?logo=AmazonDynamoDB&color=critical
+[star]: https://github.com/MikiLin-wiviw/Miki-Stickie/stargazers?logo=AmazonDynamoDB&color=critical
 [watching]: https://github.com/MikiLin-wiviw/Miki-Stickie/watchers
 [github-r-s]: https://img.shields.io/github/stars/MikiLin-wiviw/Miki-Stickie
 [twitter]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2FMiki_Lin_CN&query=count&color=1da1f2&label=Twitter&labelColor=5d5d5d&logo=twitter&suffix=+Follows&cacheSeconds=3600
