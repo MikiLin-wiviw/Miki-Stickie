@@ -82,7 +82,7 @@ QQ 的话暂时就不公开啦~
 
 
 <!--特别感谢-->
-## 版权说明 - 哈！乖乖站好
+## 版权说明 - 哈！乖乖站好 🤪
 
 <!--跳转地址（按顺序）-->
 [My-Projects]: https://github.com/MikiLin-wiviw/Miki-Stickie
