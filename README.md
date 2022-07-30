@@ -5,4 +5,4 @@
 如果你愿意，在你使用咱的模板修改完并且发布后，可以在帖子中或者评论区@一下咱。  
 非常感谢各位小伙伴的支持！  
 [![Miki-Stickie][miki-stickie]][wwww]  
-[miki-stickie]: ./Data/miki-stickie.png
+[miki-stickie]: ./data/miki-stickie.png
