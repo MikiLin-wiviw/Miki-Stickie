@@ -18,15 +18,19 @@
 
 [![Twitter][twitter]](https://twitter.com/Miki_Lin_CN)
 
+
+<!--跳转地址（按顺序）-->
 [My-Projects]: https://github.com/MikiLin-wiviw/Miki-Stickie
-[miki-stickie-issues]: https://github.com/MikiLin-wiviw/Miki-Stickie/issues
-[miki-stickie]: ./data/miki-stickie-logo.svg
-[Github]: https://github.com/MikiLin-wiviw/Miki-Stickie
-[github-watchers]: https://img.shields.io/github/watchers/MikiLin-wiviw/Miki-Stickie?logo=AmazonDynamoDB&color=critical
-[star]: https://github.com/MikiLin-wiviw/Miki-Stickie/stargazers
 [watching]: https://github.com/MikiLin-wiviw/Miki-Stickie/watchers
-[github-r-s]: https://img.shields.io/github/stars/MikiLin-wiviw/Miki-Stickie?logo=AmazonDynamoDB&color=critical
-[twitter]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2FMiki_Lin_CN&query=count&color=1da1f2&label=Twitter&labelColor=5d5d5d&logo=twitter&suffix=+Follows&cacheSeconds=3600
+[star]: https://github.com/MikiLin-wiviw/Miki-Stickie/stargazers
+[miki-stickie-issues]: https://github.com/MikiLin-wiviw/Miki-Stickie/issues
+[Github]: https://github.com/MikiLin-wiviw/Miki-Stickie
+
+<!--URL地址（按顺序）-->
 [versions]: https://img.shields.io/github/v/release/MikiLin-wiviw/Miki-Stickie?color=73bd62&logoColor=73bd62&label=Versions&logo=CLion&logoWidth=11
-[issues]: https://img.shields.io/github/issues-raw/MikiLin-wiviw/Miki-Stickie?logo=Bitrise
 [Downloads]: https://img.shields.io/github/downloads/MikiLin-wiviw/Miki-Stickie/total?label=Downloads&logo=DocuSign
+[github-watchers]: https://img.shields.io/github/watchers/MikiLin-wiviw/Miki-Stickie?logo=AmazonDynamoDB&color=critical
+[github-r-s]: https://img.shields.io/github/stars/MikiLin-wiviw/Miki-Stickie?logo=AmazonDynamoDB&color=critical
+[issues]: https://img.shields.io/github/issues-raw/MikiLin-wiviw/Miki-Stickie?logo=Bitrise
+[miki-stickie]: ./data/miki-stickie-logo.svg
+[twitter]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2FMiki_Lin_CN&query=count&color=1da1f2&label=Twitter&labelColor=5d5d5d&logo=twitter&suffix=+Follows&cacheSeconds=3600
