@@ -1,4 +1,4 @@
-# Miki-Stickie —— 你猜是干什么的？  
+# Miki-Stickie —— 师傅，你是干什么工作的？  
 
 [![Miki-Stickie][miki-stickie]][Github]
 ## 氦！各位小伙伴好  
