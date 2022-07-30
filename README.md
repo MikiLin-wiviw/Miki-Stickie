@@ -40,7 +40,7 @@ QQ 的话暂时就不公开啦~
 | 字体名称 | 授权范围 | 字体解析 | 
 | --- | --- | --- |
 | MiSans | 供全社会免费商用 | [MiSans 字体解析][MiSans-analysis] |
-| git diff | Show file differences that haven't been staged |
+| HarmonyOS | 全社会免费商用 | [HarmonyOS 字体解析][HarmonyOS-analysis]
 
 
 
@@ -63,3 +63,4 @@ QQ 的话暂时就不公开啦~
 
 <!--相对链接（按顺序）-->
 [MiSans-analysis]: https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854
+[HarmonyOS-analysis]: https://developer.harmonyos.com/cn/docs/design/font-0000001157868583
