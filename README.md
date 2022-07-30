@@ -1,4 +1,4 @@
-# Miki-Stickie — 师傅，你是干什么工作的？  
+# Miki-Stickie — 师傅，你是干什么工作的? 🤨  
 [![GitHub release (latest by date)][versions]][My-Projects]
 [![GitHub all releases][Downloads]][My-Projects]
 [![GitHub watchers][github-watchers]][watching]
