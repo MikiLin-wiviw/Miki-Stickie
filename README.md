@@ -1,9 +1,9 @@
 # Miki-Stickie — 师傅，你是干什么工作的？  
-![GitHub release (latest by date)][versions]
-![GitHub all releases][Downloads]
-![GitHub watchers][github-watchers]
-![GitHub Repo stars][github-r-s]
-![GitHub issues][issues]
+[![GitHub release (latest by date)][versions]][My-Projects]
+[![GitHub all releases][Downloads]][My-Projects]
+[![GitHub watchers][github-watchers]][My-Projects]
+[![GitHub Repo stars][github-r-s]][My-Projects]
+[![GitHub issues][issues]][miki-stickie-issues]
 
 [![Miki-Stickie][miki-stickie]][Github]
 ## 氦！各位小伙伴好  
@@ -18,6 +18,8 @@
 
 [![Twitter][twitter]](https://twitter.com/Miki_Lin_CN)
 
+[My-Projects]: https://github.com/MikiLin-wiviw/Miki-Stickie
+[miki-stickie-issues]: https://github.com/MikiLin-wiviw/Miki-Stickie/issues
 [miki-stickie]: ./data/miki-stickie-logo.svg
 [Github]: https://github.com/MikiLin-wiviw/Miki-Stickie
 [github-watchers]: https://img.shields.io/github/watchers/MikiLin-wiviw/Miki-Stickie
