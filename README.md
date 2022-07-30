@@ -7,5 +7,5 @@
 
 [![Miki-Stickie][miki-stickie]][GitHub]
 
-[miki-stickie]: ./data/miki-stickie.svg  
+[miki-stickie]: ./data/
 [GitHub]: https://github.com/MikiLin-wiviw/Miki-Stickie
