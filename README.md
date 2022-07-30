@@ -1,6 +1,5 @@
 # Miki-Stickie — 师傅，你是干什么工作的？  
 ![GitHub release (latest by date)][versions]
-[![Twitter][twitter]](https://twitter.com/Miki_Lin_CN)
 ![GitHub watchers][github-watchers]
 ![GitHub Repo stars][github-r-s]
 ![GitHub issues][issues]
@@ -16,6 +15,7 @@
 非常感谢各位小伙伴的支持！  
 
 
+[![Twitter][twitter]](https://twitter.com/Miki_Lin_CN)
 
 [miki-stickie]: ./data/miki-stickie-logo.svg
 [Github]: https://github.com/MikiLin-wiviw/Miki-Stickie
