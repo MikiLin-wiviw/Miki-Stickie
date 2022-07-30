@@ -46,7 +46,10 @@ QQ 的话暂时就不公开啦~
 | Roboto Serif | 免费商用 | [Roboto Serif 官方Github][Roboto-Serif-Github] |
 | Roboto | 免费商用 | [Roboto 官方Github][Roboto-Github] |
 | 思源黑体 | 免费商用 | [思源黑体 官方Github][思源黑体-Github] |
-
+**以上字体只是咱设计时常用的字体**  
+有些时候会用到一些特殊的装饰性字体，那些字体将在每次更新的模板描述中说明  
+**在此对这些刻苦的字体工作者表示感谢 🥰**
+> 字体设计是一个非常艰难的事情，特别是中文，横平竖直点捺勾折皆变化嘛
 
 <!--跳转地址（按顺序）-->
 [My-Projects]: https://github.com/MikiLin-wiviw/Miki-Stickie
