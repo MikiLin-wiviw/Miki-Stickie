@@ -3,6 +3,7 @@
 [![Twitter][twitter]](https://twitter.com/Miki_Lin_CN)
 ![GitHub watchers][github-watchers]
 ![GitHub Repo stars][github-r-s]
+![GitHub issues][issues]
 
 [![Miki-Stickie][miki-stickie]][Github]
 ## 氦！各位小伙伴好  
@@ -22,3 +23,4 @@
 [github-r-s]: https://img.shields.io/github/stars/MikiLin-wiviw/Miki-Stickie
 [twitter]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2FMiki_Lin_CN&query=count&color=1da1f2&label=Twitter&labelColor=5d5d5d&logo=twitter&suffix=+Follows&cacheSeconds=3600
 [versions]: https://img.shields.io/github/v/release/MikiLin-wiviw/Miki-Stickie?color=73bd62&label=Versions&logo=CLion&logoWidth=11
+[issues]: https://img.shields.io/github/issues-raw/MikiLin-wiviw/Miki-Stickie?logo=Bitrise
