@@ -4,7 +4,8 @@
 这个模板仅供个人非商业使用，切勿用此模板进行任何商业化的操作，例如贩售、企业宣传等用途哦。  
 如果你愿意，在你使用咱的模板修改完并且发布后，可以在帖子中或者评论区@一下咱。  
 非常感谢各位小伙伴的支持！  
+
 [![Miki-Stickie][miki-stickie]][GitHub]
 
-[miki-stickie]: ./data/miki-stickie.png  
+[miki-stickie]: ./data/miki-stickie.svg  
 [GitHub]: https://github.com/MikiLin-wiviw/Miki-Stickie
