@@ -7,7 +7,7 @@ body:
     attributes:
       value: 谢谢小伙伴提出你的看法，请花一捏捏时间填写信息。
   - type: dropdown
-    id: version
+    id: Series
     attributes:
       label: 版本系列
       description: 请问你的看法适用于哪个版本系列呢？
@@ -20,7 +20,7 @@ body:
     validations:
       required: true
   - type: input
-    id: contact
+    id: version
     attributes:
       label: 版本号
       description: 请问你的看法具体作用于哪个版本号呢（可填全部）？

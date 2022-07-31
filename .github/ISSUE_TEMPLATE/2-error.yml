@@ -7,7 +7,7 @@ body:
     attributes:
       value: 感谢小伙伴的反馈，请填写该表格描述你遇到的错误内容
   - type: dropdown
-    id: version
+    id: Series
     attributes:
       label: 版本系列
       description: 请问出现的错误存在于哪个版本系列呢？
@@ -20,7 +20,7 @@ body:
     validations:
       required: true
   - type: input
-    id: contact
+    id: version
     attributes:
       label: 版本号
       description: 请问发生错误的具体版本号是（可填全部）？
