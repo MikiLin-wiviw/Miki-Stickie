@@ -16,7 +16,6 @@ body:
         - Miki Stickie.V2
         - Miki Stickie.V3
         - Miki Stickie.V4
-        - 全部
     validations:
       required: true
   - type: input
