@@ -1,0 +1,49 @@
+name: 提出你的看法
+description: 你对此有什么看法呢
+title: "[观点 / 看法]："
+labels: ["view"]
+body:
+  - type: markdown
+    attributes:
+      value: 谢谢小伙伴提出你的看法，请花一捏捏时间填写信息。
+  - type: dropdown
+    id: select
+    attributes:
+      label: 类别
+      description: 请问是反馈错误还是提出建议呢？
+      options:
+        - 错误
+        - 修改建议
+    validations:
+      required: true
+  - type: textarea
+    id: problem-description
+    attributes:
+      label: 能告诉咱网站上那些信息需要修改么？
+      description: 可以是错误信息，可以是修改建议，有什么好的想法提出来就好啦
+      placeholder: 在这里在这里！快点进来喝可乐！
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: 联系方式
+      description: 如果你愿意，可以在此留下联系方式哦~
+    validations:
+      required: false
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: 行为准则
+      description: 为了保证此社区的质量，请你遵循此社区行为准则 [Miki Home Rules](https://docs.github.com/cn/site-policy/github-terms/github-community-guidelines) 的内容
+      options:
+        - label: 我同意遵守 **Miki Home Rules**
+          required: true
+  - type: checkboxes
+    id: license
+    attributes:
+      label: 本项目库模板遵循 CC BY-NC-SA 4.0 许可协议
+      description: 本社区的模板采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可协议
+      options:
+        - label: 我同意遵守 **CC BY-NC-SA 4.0** 协议内容
+          required: true
