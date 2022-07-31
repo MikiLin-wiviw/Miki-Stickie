@@ -1,7 +1,7 @@
-name: 提出你的看法
-description: 你对此有什么看法呢
-title: "[观点 / 看法]："
-labels: ["view"]
+name: 本 Github 库相关
+description: 请问对本库有什么看法 / 反馈么？
+title: "[反馈 / 看法]："
+labels: ["github"]
 body:
   - type: markdown
     attributes:
