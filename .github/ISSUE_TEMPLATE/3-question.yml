@@ -7,17 +7,25 @@ body:
     attributes:
       value: 在使用的过程中遇到了什么难题么，你可以在这里发起提问哦。
   - type: dropdown
-    id: question
+    id: version
     attributes:
-      label: 版本
-      description: 请问遇到的问题出自于哪个版本？
+      label: 版本系列
+      description: 请问遇到问题的是哪个版本系列呢？
       options:
         - Miki Stickie.V1
         - Miki Stickie.V2
         - Miki Stickie.V3
         - Miki Stickie.V4
+        - 全部
     validations:
       required: true
+  - type: input
+    id: contact
+    attributes:
+      label: 版本号
+      description: 请问是在哪个版本中遇到了使用问题（可填全部）？
+    validations:
+      required: ture
   - type: textarea
     id: write-question
     attributes:

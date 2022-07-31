@@ -9,15 +9,23 @@ body:
   - type: dropdown
     id: version
     attributes:
-      label: 版本
-      description: 请问出现错误的是哪个版本呢？
+      label: 版本系列
+      description: 请问出现的错误存在于哪个版本系列呢？
       options:
         - Miki Stickie.V1
         - Miki Stickie.V2
         - Miki Stickie.V3
         - Miki Stickie.V4
+        - 全部
     validations:
       required: true
+  - type: input
+    id: contact
+    attributes:
+      label: 版本号
+      description: 请问发生错误的具体版本号是（可填全部）？
+    validations:
+      required: ture
   - type: dropdown
     id: type
     attributes:

@@ -9,8 +9,8 @@ body:
   - type: dropdown
     id: version
     attributes:
-      label: 版本
-      description: 请问你的看法适用于哪个版本呢？
+      label: 版本系列
+      description: 请问你的看法适用于哪个版本系列呢？
       options:
         - Miki Stickie.V1
         - Miki Stickie.V2
@@ -19,6 +19,13 @@ body:
         - 全部
     validations:
       required: true
+  - type: input
+    id: contact
+    attributes:
+      label: 版本号
+      description: 请问你的看法具体作用于哪个版本号呢（可填全部）？
+    validations:
+      required: ture
   - type: dropdown
     id: type
     attributes:
