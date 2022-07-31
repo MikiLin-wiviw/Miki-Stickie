@@ -25,7 +25,7 @@ body:
       label: 版本号
       description: 请问你的看法具体作用于哪个版本号呢（可填全部）？
     validations:
-      required: ture
+      required: true
   - type: dropdown
     id: type
     attributes:

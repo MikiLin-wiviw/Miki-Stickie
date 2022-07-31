@@ -25,7 +25,7 @@ body:
       label: 版本号
       description: 请问是在哪个版本中遇到了使用问题（可填全部）？
     validations:
-      required: ture
+      required: true
   - type: textarea
     id: write-question
     attributes:
