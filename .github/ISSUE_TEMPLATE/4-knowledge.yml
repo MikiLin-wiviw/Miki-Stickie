@@ -39,3 +39,11 @@ body:
       options:
         - label: 我同意以上内容，并已经根据此规则重新考虑过是否选择匿名
           required: true
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: 行为准则
+      description: 为了保证此社区的质量，请你遵循此社区行为准则 [Miki Home Rules](https://github.com/MikiLin-wiviw/Miki-Stickie/blob/master/documents/Miki-Home-Rules.md) 的内容
+      options:
+        - label: 我同意遵守 **Miki Home Rules**
+          required: true

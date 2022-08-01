@@ -72,10 +72,20 @@ body:
     validations:
       required: false
   - type: checkboxes
+    id: attention 
+    attributes:
+      label: 提交前须知
+      description: |
+            请注意，如果你愿意提供联系方式（包含昵称），我们会将你列入贡献者列表中。
+            如果联系方式未填写，将视为不愿意透露姓名，为保证你的隐私将在贡献者列表中计入 “热心的小伙伴” 群体名单中
+      options:
+        - label: 我同意以上内容，并已经根据此规则重新考虑过是否选择匿名
+          required: true
+  - type: checkboxes
     id: rules
     attributes:
       label: 行为准则
-      description: 为了保证此社区的质量，请你遵循此社区行为准则 [Miki Home Rules](https://docs.github.com/cn/site-policy/github-terms/github-community-guidelines) 的内容
+      description: 为了保证此社区的质量，请你遵循此社区行为准则 [Miki Home Rules](https://github.com/MikiLin-wiviw/Miki-Stickie/blob/master/documents/Miki-Home-Rules.md) 的内容
       options:
         - label: 我同意遵守 **Miki Home Rules**
           required: true
