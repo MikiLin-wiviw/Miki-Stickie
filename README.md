@@ -51,6 +51,7 @@ QQ 的话暂时就不公开啦~
 | Roboto Serif | 免费商用 | [Roboto Serif 官方Github][Roboto-Serif-Github] |
 | Roboto | 免费商用 | [Roboto 官方Github][Roboto-Github] |
 | 思源黑体 | 免费商用 | [思源黑体 官方Github][思源黑体-Github] |  
+- [更详细的列表请访问此处][Github-fonts-info]
 
 **以上字体只是咱设计时常用的字体**  
 有些时候会用到一些特殊的装饰性字体，那些字体将在每次更新的模板描述中说明  
@@ -115,6 +116,7 @@ QQ 的话暂时就不公开啦~
 [miki-stickie]: ./data/miki-stickie-logo.svg
 [twitter]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2FMiki_Lin_CN&query=count&color=1da1f2&label=Twitter&labelColor=5d5d5d&logo=twitter&suffix=+Follows&cacheSeconds=3600
 [BiliBili]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fbilibili%2F22974524&query=count&color=00a1d6&label=BiliBili&labelColor=FE7398&logo=Bilibili&suffix=+%E7%B2%89%E4%B8%9D%E6%95%B0&cacheSeconds=3600
+[Github-fonts-info]: https://github.com/MikiLin-wiviw/Miki-Stickie/blob/master/data/fonts/info.md
 [cc-licensing]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-licensing-img]: https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
 [Mtfwiki-link]: https://github.com/mtf-wiki/MtF-Wiki
