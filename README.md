@@ -109,7 +109,7 @@ QQ 的话暂时就不公开啦~
 
 <!--URL地址（按顺序）-->
 [versions]: https://img.shields.io/github/v/release/MikiLin-wiviw/Miki-Stickie?color=73bd62&logoColor=73bd62&label=Versions&logo=CLion&logoWidth=11
-[Downloads]: https://img.shields.io/github/downloads/MikiLin-wiviw/Miki-Stickie/total?label=Downloads&logo=DocuSign
+[Downloads]: https://img.shields.io/github/downloads/MikiLin-wiviw/Miki-Stickie/total?logo=DocuSign
 [github-watchers]: https://img.shields.io/github/watchers/MikiLin-wiviw/Miki-Stickie?logo=CodeSandbox&color=critical&logoColor=db664f
 [github-r-s]: https://img.shields.io/github/stars/MikiLin-wiviw/Miki-Stickie?logo=CodeSandbox&color=critical&logoColor=db664f
 [issues]: https://img.shields.io/github/issues-raw/MikiLin-wiviw/Miki-Stickie?logo=Bitrise
